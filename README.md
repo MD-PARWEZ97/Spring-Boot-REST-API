@@ -1,21 +1,25 @@
 # Spring Boot REST API
 
-This repository contains RESTful API projects built using Spring Boot.
+This repository contains RESTful API projects developed using Spring Boot. The projects demonstrate backend development concepts including CRUD operations, layered architecture, Spring Data JPA, Hibernate, and MySQL.
 
-## Technologies
+## Technologies Used
 
-- Java
+- Java 17
 - Spring Boot
+- Spring Web
 - Spring Data JPA
 - Hibernate
 - MySQL
 - Maven
+- Postman
 
 ## Features
 
-- REST APIs
-- CRUD Operations
-- Exception Handling
-- Validation
+- Create, Read, Update, Delete (CRUD)
+- RESTful APIs
 - Layered Architecture
-- DTO Pattern
+- Entity & DTO Mapping
+- Exception Handling
+- Database Integration with MySQL
+
+## Project Structure
